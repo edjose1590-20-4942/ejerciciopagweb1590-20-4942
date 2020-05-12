@@ -1,0 +1,17 @@
+#particles-js{
+	background: url(fondo3/fondo3.jpg);
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
+}
+.ancho-letras{
+	top: 100px;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	z-index: 0;
+}
+.letras-edson{
+	width: 80%;
+	margin: auto;
+}

@@ -1,0 +1,16 @@
+#particles-js{
+	background: url(fondo/fondo2.jpg);
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
+}
+.ancho-texto{
+	top: 200px;
+	position: absolute;
+	width: 100%;
+	text-align: center;
+}
+.letras-mike{
+	width: 80%;
+	margin: auto;
+}
